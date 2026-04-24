@@ -1,6 +1,7 @@
 # Korean Josa (korean-josa-python)
 
-[![PyPI version](https://badge.fury.io/py/korean-josa.svg)](https://badge.fury.io/py/korean-josa-python)
+[![PyPI version](https://badge.fury.io/py/korean-josa.svg)](https://badge.fury.io/py/korean-josa)
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 한국어 단어의 마지막 글자에 따라 적절한 조사를 자동으로 선택하고 결합해 주는 파이썬 라이브러리입니다. 한글뿐만 아니라 숫자(0-9)와 'ㄹ' 받침 예외 처리를 완벽하게 지원합니다.
