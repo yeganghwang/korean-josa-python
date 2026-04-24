@@ -39,3 +39,7 @@ Thumbs.db
 
 # Logs
 *.log
+
+# requirements
+요구사항.md
+requirements.md
